@@ -1,5 +1,7 @@
 package org.dp.creational.factory;
 
+import org.dp.creational.Shape;
+
 public class FactoryPatternDemo {
 
 	public static void main(String[] args) {

@@ -1,5 +1,11 @@
 package org.dp.creational.abstractfactory;
 
+import org.dp.creational.Circle;
+import org.dp.creational.Color;
+import org.dp.creational.Rectangle;
+import org.dp.creational.Shape;
+import org.dp.creational.Square;
+
 public class ShapeFactory extends AbstractFactory {
 
 	@Override

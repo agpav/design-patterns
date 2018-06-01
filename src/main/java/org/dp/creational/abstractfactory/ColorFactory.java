@@ -1,5 +1,11 @@
 package org.dp.creational.abstractfactory;
 
+import org.dp.creational.Blue;
+import org.dp.creational.Color;
+import org.dp.creational.Green;
+import org.dp.creational.Red;
+import org.dp.creational.Shape;
+
 public class ColorFactory extends AbstractFactory {
 
 	@Override

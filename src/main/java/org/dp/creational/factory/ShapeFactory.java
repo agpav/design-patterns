@@ -1,5 +1,10 @@
 package org.dp.creational.factory;
 
+import org.dp.creational.Circle;
+import org.dp.creational.Rectangle;
+import org.dp.creational.Shape;
+import org.dp.creational.Square;
+
 public class ShapeFactory {
 
 	// use getShape method to get object of type shape
